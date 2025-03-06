@@ -52,7 +52,5 @@ This project focuses on analyzing datasets using Python libraries such as `panda
 ## Sample Visualizations
 Include sample plots, charts, or screenshots of your analysis here.
 
-## License
-This project is licensed under the MIT License.
-
+---
 
